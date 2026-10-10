@@ -1,0 +1,425 @@
+    Transport Stream Id: 0x3070 (12400), Original Network Id: 0x013E (318)
+      Frequency: 10.99216 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 2/3 (2)
+    Transport Stream Id: 0x1770 (6000), Original Network Id: 0x00BE (190)
+      Frequency: 11.91900 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.35 (0)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:    73 (0x0049), Visible: 1, Channel number:  29
+      Service Id:    79 (0x004F), Visible: 1, Channel number:   7
+      Service Id:    80 (0x0050), Visible: 1, Channel number: 822
+      Service Id:    91 (0x005B), Visible: 1, Channel number:  18
+      Service Id:   105 (0x0069), Visible: 1, Channel number: 615
+      Service Id:   104 (0x0068), Visible: 1, Channel number: 616
+      Service Id:   101 (0x0065), Visible: 1, Channel number: 617
+      Service Id:   102 (0x0066), Visible: 1, Channel number: 618
+    Transport Stream Id: 0x04B0 (1200), Original Network Id: 0x0110 (272)
+      Frequency: 11.43200 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:   111 (0x006F), Visible: 1, Channel number:  34
+      Service Id:   119 (0x0077), Visible: 1, Channel number:  67
+      Service Id:   120 (0x0078), Visible: 1, Channel number:  20
+      Service Id:   123 (0x007B), Visible: 1, Channel number:   4
+      Service Id:   122 (0x007A), Visible: 1, Channel number:   5
+      Service Id:   121 (0x0079), Visible: 1, Channel number:   6
+      Service Id:   124 (0x007C), Visible: 1, Channel number:  11
+      Service Id:   127 (0x007F), Visible: 1, Channel number:  12
+      Service Id:   130 (0x0082), Visible: 1, Channel number:  16
+      Service Id:   129 (0x0081), Visible: 1, Channel number:  17
+      Service Id:   128 (0x0080), Visible: 1, Channel number:  25
+      Service Id:   132 (0x0084), Visible: 1, Channel number:  39
+      Service Id:   126 (0x007E), Visible: 1, Channel number:  40
+      Service Id:   133 (0x0085), Visible: 1, Channel number:  41
+      Service Id:   134 (0x0086), Visible: 1, Channel number:  22
+      Service Id:   118 (0x0076), Visible: 1, Channel number:  68
+      Service Id:   135 (0x0087), Visible: 1, Channel number:  27
+    Transport Stream Id: 0x012C (300), Original Network Id: 0x013E (318)
+      Frequency: 11.25800 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id: 15202 (0x3B62), Visible: 1, Channel number:  28
+      Service Id: 15201 (0x3B61), Visible: 1, Channel number:  31
+      Service Id: 15203 (0x3B63), Visible: 1, Channel number:  33
+      Service Id: 15212 (0x3B6C), Visible: 1, Channel number:  37
+    Transport Stream Id: 0x1388 (5000), Original Network Id: 0x013E (318)
+      Frequency: 11.72700 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id: 13101 (0x332D), Visible: 1, Channel number:  85
+      Service Id: 13130 (0x334A), Visible: 1, Channel number: 656
+      Service Id: 13124 (0x3344), Visible: 1, Channel number: 667
+      Service Id: 13121 (0x3341), Visible: 1, Channel number: 669
+      Service Id: 13122 (0x3342), Visible: 1, Channel number: 670
+      Service Id: 13104 (0x3330), Visible: 1, Channel number:  70
+    Transport Stream Id: 0x1450 (5200), Original Network Id: 0x013E (318)
+      Frequency: 11.76584 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  3401 (0x0D49), Visible: 1, Channel number:   1
+      Service Id:  3402 (0x0D4A), Visible: 1, Channel number:   2
+      Service Id:  3403 (0x0D4B), Visible: 1, Channel number:   3
+      Service Id:  3405 (0x0D4D), Visible: 1, Channel number:  10
+      Service Id:  3406 (0x0D4E), Visible: 1, Channel number:  14
+      Service Id:  3407 (0x0D4F), Visible: 1, Channel number: 210
+      Service Id:  3441 (0x0D71), Visible: 1, Channel number: 601
+      Service Id:  3442 (0x0D72), Visible: 1, Channel number: 602
+      Service Id:  3443 (0x0D73), Visible: 1, Channel number: 603
+      Service Id:  3408 (0x0D50), Visible: 1, Channel number:  89
+    Transport Stream Id: 0x14B4 (5300), Original Network Id: 0x013E (318)
+      Frequency: 11.78500 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:   713 (0x02C9), Visible: 1, Channel number:  30
+    Transport Stream Id: 0x1B58 (7000), Original Network Id: 0x013E (318)
+      Frequency: 12.11100 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:   736 (0x02E0), Visible: 1, Channel number: 608
+      Service Id:   737 (0x02E1), Visible: 1, Channel number: 609
+      Service Id:   768 (0x0300), Visible: 1, Channel number: 625
+      Service Id:   738 (0x02E2), Visible: 1, Channel number: 627
+      Service Id:   732 (0x02DC), Visible: 1, Channel number: 633
+      Service Id:   742 (0x02E6), Visible: 1, Channel number: 643
+    Transport Stream Id: 0x1C20 (7200), Original Network Id: 0x013E (318)
+      Frequency: 12.14944 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  7256 (0x1C58), Visible: 1, Channel number: 550
+      Service Id:  3642 (0x0E3A), Visible: 1, Channel number: 610
+      Service Id:  3643 (0x0E3B), Visible: 1, Channel number: 611
+      Service Id:  3632 (0x0E30), Visible: 1, Channel number: 620
+      Service Id:  3630 (0x0E2E), Visible: 1, Channel number: 612
+      Service Id:  3653 (0x0E45), Visible: 1, Channel number: 621
+      Service Id:  3652 (0x0E44), Visible: 1, Channel number: 622
+      Service Id:  3651 (0x0E43), Visible: 1, Channel number: 623
+      Service Id:  3644 (0x0E3C), Visible: 1, Channel number: 624
+      Service Id:  3645 (0x0E3D), Visible: 1, Channel number: 626
+      Service Id:  7280 (0x1C70), Visible: 1, Channel number: 634
+      Service Id:  3656 (0x0E48), Visible: 1, Channel number: 635
+      Service Id:  3637 (0x0E35), Visible: 1, Channel number: 644
+    Transport Stream Id: 0x1FA4 (8100), Original Network Id: 0x013E (318)
+      Frequency: 12.32200 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id: 14809 (0x39D9), Visible: 1, Channel number:  79
+    Transport Stream Id: 0x20D0 (8400), Original Network Id: 0x013E (318)
+      Frequency: 12.37900 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 30.0000 Msymbol/s
+      Inner FEC: 5/6 (4)
+      Service Id:  3050 (0x0BEA), Visible: 1, Channel number: 223
+    Transport Stream Id: 0x22C4 (8900), Original Network Id: 0x013E (318)
+      Frequency: 12.47600 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  2004 (0x07D4), Visible: 1, Channel number: 815
+    Transport Stream Id: 0x2328 (9000), Original Network Id: 0x013E (318)
+      Frequency: 12.52000 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id:  9022 (0x233E), Visible: 1, Channel number:  86
+      Service Id:  9023 (0x233F), Visible: 1, Channel number:  58
+    Transport Stream Id: 0x23F0 (9200), Original Network Id: 0x013E (318)
+      Frequency: 12.55800 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 5/6 (4)
+      Service Id:  1209 (0x04B9), Visible: 1, Channel number: 230
+    Transport Stream Id: 0x2454 (9300), Original Network Id: 0x013E (318)
+      Frequency: 12.57700 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  1601 (0x0641), Visible: 1, Channel number:  77
+      Service Id:  1613 (0x064D), Visible: 1, Channel number:  52
+    Transport Stream Id: 0x1A90 (6800), Original Network Id: 0xFBFF (64511)
+      Frequency: 12.07200 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  7260 (0x1C5C), Visible: 1, Channel number:   8
+      Service Id:  4120 (0x1018), Visible: 1, Channel number:  19
+    Transport Stream Id: 0x01F4 (500), Original Network Id: 0x00FC (252)
+      Frequency: 11.29600 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 5/6 (4)
+      Service Id:  2208 (0x08A0), Visible: 1, Channel number: 412
+    Transport Stream Id: 0x0384 (900), Original Network Id: 0x013E (318)
+      Frequency: 11.37300 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:   533 (0x0215), Visible: 1, Channel number:  73
+      Service Id:   510 (0x01FE), Visible: 1, Channel number: 454
+      Service Id:   514 (0x0202), Visible: 1, Channel number:  36
+      Service Id:   515 (0x0203), Visible: 1, Channel number:  66
+      Service Id:   516 (0x0204), Visible: 1, Channel number:  65
+      Service Id:   517 (0x0205), Visible: 1, Channel number:  62
+      Service Id:   518 (0x0206), Visible: 1, Channel number: 420
+      Service Id:   519 (0x0207), Visible: 1, Channel number: 645
+    Transport Stream Id: 0x03E8 (1000), Original Network Id: 0x013E (318)
+      Frequency: 11.39300 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  4323 (0x10E3), Visible: 1, Channel number:   9
+      Service Id:  4322 (0x10E2), Visible: 1, Channel number:  38
+      Service Id:  4334 (0x10EE), Visible: 1, Channel number:  56
+      Service Id:  4321 (0x10E1), Visible: 1, Channel number:  59
+    Transport Stream Id: 0x2B5C (11100), Original Network Id: 0x013E (318)
+      Frequency: 10.72700 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 30.0000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  4604 (0x11FC), Visible: 1, Channel number: 220
+      Service Id:  4605 (0x11FD), Visible: 1, Channel number: 222
+      Service Id:  4603 (0x11FB), Visible: 1, Channel number: 225
+      Service Id:  4608 (0x1200), Visible: 1, Channel number:  83
+    Transport Stream Id: 0x2C24 (11300), Original Network Id: 0x013E (318)
+      Frequency: 10.77500 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id:   262 (0x0106), Visible: 1, Channel number:  60
+    Transport Stream Id: 0x2F44 (12100), Original Network Id: 0x013E (318)
+      Frequency: 10.93000 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 30.0000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id: 16942 (0x422E), Visible: 1, Channel number: 444
+      Service Id: 16924 (0x421C), Visible: 1, Channel number:  74
+      Service Id: 16939 (0x422B), Visible: 1, Channel number:  49
+      Service Id: 16950 (0x4236), Visible: 1, Channel number:  76
+      Service Id: 16947 (0x4233), Visible: 1, Channel number:  47
+      Service Id: 16949 (0x4235), Visible: 1, Channel number: 447
+    Transport Stream Id: 0x2FA8 (12200), Original Network Id: 0x013E (318)
+      Frequency: 10.94900 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id:   101 (0x0065), Visible: 1, Channel number:  94
+      Service Id:   102 (0x0066), Visible: 1, Channel number:  95
+      Service Id:   105 (0x0069), Visible: 1, Channel number:  96
+      Service Id:   104 (0x0068), Visible: 1, Channel number:  97
+      Service Id:   106 (0x006A), Visible: 1, Channel number:  98
+      Service Id:   103 (0x0067), Visible: 1, Channel number:  99
+    Transport Stream Id: 0x300C (12300), Original Network Id: 0x013E (318)
+      Frequency: 10.97100 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 29.7000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id: 17235 (0x4353), Visible: 1, Channel number: 661
+      Service Id: 17236 (0x4354), Visible: 1, Channel number: 662
+      Service Id: 17247 (0x435F), Visible: 1, Channel number: 663
+    Transport Stream Id: 0x3070 (12400), Original Network Id: 0x013E (318)
+      Frequency: 10.99216 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id:  8511 (0x213F), Visible: 1, Channel number:  43
+      Service Id:  8512 (0x2140), Visible: 1, Channel number: 202
+      Service Id:  8522 (0x214A), Visible: 1, Channel number:  15
+      Service Id:  8518 (0x2146), Visible: 1, Channel number:  23
+      Service Id:  8521 (0x2149), Visible: 1, Channel number:  26
+      Service Id:  8519 (0x2147), Visible: 1, Channel number:  90
+      Service Id:  8523 (0x214B), Visible: 1, Channel number: 500
+      Service Id:  8524 (0x214C), Visible: 1, Channel number: 607
+      Service Id:  8525 (0x214D), Visible: 1, Channel number: 605
+      Service Id:  8526 (0x214E), Visible: 1, Channel number: 604
+      Service Id:  8527 (0x214F), Visible: 1, Channel number: 638
+      Service Id:  8528 (0x2150), Visible: 1, Channel number: 640
+      Service Id:  8529 (0x2151), Visible: 1, Channel number: 639
+      Service Id:  8530 (0x2152), Visible: 1, Channel number: 636
+      Service Id:  8531 (0x2153), Visible: 1, Channel number: 637
+      Service Id:  8532 (0x2154), Visible: 1, Channel number: 641
+      Service Id:  8533 (0x2155), Visible: 1, Channel number: 606
+      Service Id:  8534 (0x2156), Visible: 1, Channel number: 642
+      Service Id:  8535 (0x2157), Visible: 1, Channel number: 619
+    Transport Stream Id: 0x30D4 (12500), Original Network Id: 0x013E (318)
+      Frequency: 11.01300 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id: 17716 (0x4534), Visible: 1, Channel number:  13
+      Service Id: 17714 (0x4532), Visible: 1, Channel number:  21
+      Service Id: 17711 (0x452F), Visible: 1, Channel number:  24
+      Service Id: 17712 (0x4530), Visible: 1, Channel number:  42
+      Service Id: 17744 (0x4550), Visible: 1, Channel number: 301
+      Service Id: 17739 (0x454B), Visible: 1, Channel number: 302
+      Service Id: 17735 (0x4547), Visible: 1, Channel number: 303
+      Service Id: 17740 (0x454C), Visible: 1, Channel number: 304
+      Service Id: 17742 (0x454E), Visible: 1, Channel number: 305
+      Service Id: 17752 (0x4558), Visible: 1, Channel number: 306
+      Service Id: 17751 (0x4557), Visible: 1, Channel number: 307
+      Service Id: 17743 (0x454F), Visible: 1, Channel number: 308
+      Service Id: 17749 (0x4555), Visible: 1, Channel number: 309
+      Service Id: 17750 (0x4556), Visible: 1, Channel number: 310
+      Service Id: 17741 (0x454D), Visible: 1, Channel number: 311
+      Service Id: 17736 (0x4548), Visible: 1, Channel number: 312
+      Service Id: 17738 (0x454A), Visible: 1, Channel number: 313
+      Service Id: 17737 (0x4549), Visible: 1, Channel number: 314
+      Service Id: 17753 (0x4559), Visible: 1, Channel number: 315
+      Service Id: 17746 (0x4552), Visible: 1, Channel number: 316
+      Service Id: 17747 (0x4553), Visible: 1, Channel number: 317
+      Service Id: 17748 (0x4554), Visible: 1, Channel number: 318
+      Service Id: 17731 (0x4543), Visible: 1, Channel number: 319
+      Service Id: 17732 (0x4544), Visible: 1, Channel number: 320
+      Service Id: 17733 (0x4545), Visible: 1, Channel number: 321
+      Service Id: 17745 (0x4551), Visible: 1, Channel number: 322
+      Service Id: 17734 (0x4546), Visible: 1, Channel number: 323
+      Service Id: 17718 (0x4536), Visible: 1, Channel number: 701
+    Transport Stream Id: 0x3138 (12600), Original Network Id: 0x013E (318)
+      Frequency: 11.03400 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  1706 (0x06AA), Visible: 1, Channel number: 187
+    Transport Stream Id: 0x332C (13100), Original Network Id: 0x013E (318)
+      Frequency: 11.13741 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S
+      Modulation: QPSK (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  7302 (0x1C86), Visible: 1, Channel number:  82
+      Service Id:  7306 (0x1C8A), Visible: 1, Channel number:  71
+    Transport Stream Id: 0x33F4 (13300), Original Network Id: 0x013E (318)
+      Frequency: 11.17900 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id:  4994 (0x1382), Visible: 1, Channel number: 422
+      Service Id:  4954 (0x135A), Visible: 1, Channel number: 629
+      Service Id:  4957 (0x135D), Visible: 1, Channel number: 630
+      Service Id:  4993 (0x1381), Visible: 1, Channel number: 868
+      Service Id:  4996 (0x1384), Visible: 1, Channel number:  54
+      Service Id:  4901 (0x1325), Visible: 1, Channel number:  91
+      Service Id:  4902 (0x1326), Visible: 1, Channel number:  81
+      Service Id:  4910 (0x132E), Visible: 1, Channel number: 413
+    Transport Stream Id: 0x3BC4 (15300), Original Network Id: 0x013E (318)
+      Frequency: 11.56500 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 29.9000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:   808 (0x0328), Visible: 1, Channel number:  69
+      Service Id:   803 (0x0323), Visible: 1, Channel number:  72
+      Service Id:   807 (0x0327), Visible: 1, Channel number:  75
+    Transport Stream Id: 0x3C28 (15400), Original Network Id: 0x013E (318)
+      Frequency: 11.58500 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.25 (1)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 5/6 (4)
+      Service Id:   873 (0x0369), Visible: 1, Channel number:  88
+      Service Id:   872 (0x0368), Visible: 1, Channel number:  87
+      Service Id:   871 (0x0367), Visible: 1, Channel number:  92
+    Transport Stream Id: 0x3D54 (15700), Original Network Id: 0x013E (318)
+      Frequency: 11.64200 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  1329 (0x0531), Visible: 1, Channel number: 411
+      Service Id:  1333 (0x0535), Visible: 1, Channel number: 518
+    Transport Stream Id: 0x3DB8 (15800), Original Network Id: 0x013E (318)
+      Frequency: 11.66200 GHz
+      Polarization: linear - vertical (1)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 2/3 (2)
+      Service Id: 16962 (0x4242), Visible: 1, Channel number:  35
+      Service Id: 16977 (0x4251), Visible: 1, Channel number:  50
+      Service Id: 16963 (0x4243), Visible: 1, Channel number:  51
+      Service Id: 16966 (0x4246), Visible: 1, Channel number:  63
+      Service Id: 16976 (0x4250), Visible: 1, Channel number:  64
+      Service Id: 16952 (0x4238), Visible: 1, Channel number: 445
+      Service Id: 16922 (0x421A), Visible: 1, Channel number: 519
+      Service Id: 16981 (0x4255), Visible: 1, Channel number: 631
+      Service Id: 16982 (0x4256), Visible: 1, Channel number: 646
+      Service Id: 16992 (0x4260), Visible: 1, Channel number: 819
+      Service Id: 16988 (0x425C), Visible: 1, Channel number: 832
+      Service Id: 16971 (0x424B), Visible: 1, Channel number:  55
+    Transport Stream Id: 0x2E7C (11900), Original Network Id: 0x013F (319)
+      Frequency: 10.89200 GHz
+      Polarization: linear - horizontal (0)
+      Delivery system: DVB-S2
+      Modulation: 8-PSK (2), roll off: alpha=0.20 (2)
+      Symbol rate: 27.5000 Msymbol/s
+      Inner FEC: 3/4 (3)
+      Service Id:  1307 (0x051B), Visible: 1, Channel number:  48

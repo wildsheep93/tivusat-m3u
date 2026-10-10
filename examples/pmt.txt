@@ -1,0 +1,26 @@
+
+* PMT, TID 0x02 (2), PID 0x046C (1132)
+  Version: 13, sections: 1, total size: 67 bytes
+  - Section 0:
+    Program: 0x2154 (8532), PCR PID: 0x02A0 (672)
+    Elementary stream: type 0x03 (MPEG-1 Audio), PID: 0x02A0 (672)
+    - Descriptor 0: ISO-639 Language (0x0A, 10), 4 bytes
+      Language: ita, Type: 0x00 (undefined)
+    - Descriptor 1: Audio Stream (0x03, 3), 1 bytes
+      Free format: false, variable rate: false
+      ID: 1, layer: 2
+    Elementary stream: type 0x05 (MPEG-2 Private sections), PID: 0x07DC (2012)
+    - Descriptor 0: Application Signalling (0x6F, 111), 3 bytes
+      Application type: 0x0010 (16), AIT Version: 0x00 (0)
+    Elementary stream: type 0x0B (DSM-CC U-N), PID: 0x0BC4 (3012)
+    - Descriptor 0: Data Broadcast Id (0x66, 102), 2 bytes
+      Data broadcast id: 0x0123 (291, HbbTV Carousel)
+    - Descriptor 1: DSM-CC Carousel Identifier (0x13, 19), 5 bytes
+      Carousel id: 0x0000003E (62)
+      Private data (1 bytes): 00
+    - Descriptor 2: Stream Identifier (0x52, 82), 1 bytes
+      Component tag: 0x2A (42)
+    Elementary stream: type 0x0C (DSM-CC Stream Descriptors), PID: 0x0C1D (3101)
+    - Descriptor 0: Stream Identifier (0x52, 82), 1 bytes
+      Component tag: 0x32 (50)
+

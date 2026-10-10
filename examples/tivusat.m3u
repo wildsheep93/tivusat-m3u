@@ -1,0 +1,375 @@
+#EXTM3U
+#EXTINF:-1,1 Rai 1 HD
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=501,601,611,631,567,2012,3012,3101
+#EXTINF:-1,2 Rai 2 HD
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=502,602,612,568,632,2012,3012,3101
+#EXTINF:-1,3 Rai 3 HD
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=503,603,613,623,569,2012,3012,3101
+#EXTINF:-1,4 Rete4 HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1056,1156,1256,2056,6054,7811,7812,7891,7892
+#EXTINF:-1,5 Canale5 HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1058,1158,1258,2058,6054,7811,7812,7891,7892
+#EXTINF:-1,6 Italia1 HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1060,1160,1260,2060,6054,7811,7812,7891,7892
+#EXTINF:-1,7 LA7 HD
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=1440,1441
+#EXTINF:-1,8 TV8 HD
+rtsp://orangepizero:554/?src=3&freq=12072&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=175,434,435,706,5805,6546,6846
+#EXTINF:-1,9 Nove
+rtsp://orangepizero:554/?src=3&freq=11393&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=524,770,771,5023
+#EXTINF:-1,10 Rai 4 HD
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=505,605,615,625,635,583,2012,3012,3101
+#EXTINF:-1,11 Iris HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1046,1146,1246,2046,6054,7811,7812,7891,7892
+#EXTINF:-1,12 La5 HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1015,1115,1215,2015,6054,7811,7812,7891,7892
+#EXTINF:-1,13 Rai 5 HD
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=1860,1861,1862,1863,1864,584,2012,3012,3101
+#EXTINF:-1,14 Rai Movie HD
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=506,606,616,626,636,586,2012,3012,3101
+#EXTINF:-1,15 Rai Premium HD
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=522,662,772,792,565,2012,3012,3101
+#EXTINF:-1,16 Mediaset Italia2 HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1021,1121,1221,2021,6054,7811,7812,7891,7892
+#EXTINF:-1,17 Mediaset Extra HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1003,1103,2003,6054,7811,7812,7891,7892
+#EXTINF:-1,18 TV2000 HD
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=391,491
+#EXTINF:-1,19 Cielo HD
+rtsp://orangepizero:554/?src=3&freq=12072&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=172,425,426,704,5805,6544,6844
+#EXTINF:-1,20 20Mediaset HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1054,1154,1254,2054,6054,7811,7812,7891,7892
+#EXTINF:-1,21 Rai Sport HD
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=1840,1841,1842,1843,572,2012,3012,3101
+#EXTINF:-1,22 Focus HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1016,1116,1216,2016,6054,7811,7812,7891,7892
+#EXTINF:-1,23 Rai Storia HD
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=518,658,566,2012,3012,3101
+#EXTINF:-1,24 Rai News 24 HD
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=1810,1811,571,2012,3012,3101
+#EXTINF:-1,25 TGCOM24 HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1022,1122,6054,7811,7891
+#EXTINF:-1,26 Rai Scuola HD
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=521,661,564,2012,3012,3101
+#EXTINF:-1,27 27Twentyseven HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1038,1138,1238,2038,6054,7811,7812,7891,7892
+#EXTINF:-1,28 DMAX
+rtsp://orangepizero:554/?src=3&freq=11258&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=502,721,722,5002
+#EXTINF:-1,29 LA7CINEMA
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=1540,1542
+#EXTINF:-1,30 wedotv Movies
+rtsp://orangepizero:554/?src=3&freq=11785&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=34&pids=7131,7132,7136,7137
+#EXTINF:-1,31 Real Time
+rtsp://orangepizero:554/?src=3&freq=11258&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=501,711,712,5001
+#EXTINF:-1,33 Food Network
+rtsp://orangepizero:554/?src=3&freq=11258&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=503,731,732,5003
+#EXTINF:-1,34 Cine34 HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1004,1104,2004,6054,7811,7812,7891,7892
+#EXTINF:-1,35 Radio Italia TV HD
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1010,1012
+#EXTINF:-1,36 RTL 102.5 HD
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5141,5142,5147
+#EXTINF:-1,37 Discovery
+rtsp://orangepizero:554/?src=3&freq=11258&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=512,821,822,5312,5012
+#EXTINF:-1,38 GIALLO
+rtsp://orangepizero:554/?src=3&freq=11393&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=523,760,761,5022
+#EXTINF:-1,39 TOPcrime HD
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1051,1151,1251,2051,6054,7811,7812,7891,7892
+#EXTINF:-1,40 Boing
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1010,1110,6054,7811,7891
+#EXTINF:-1,41 Cartoonito
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1012,1112,6054,7811,7891
+#EXTINF:-1,42 Rai Gulp HD
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=1820,1821,1822,587,2012,3012,3101
+#EXTINF:-1,43 Rai YoYo HD
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=512,650,750,576,2012,3012,3013,3101
+#EXTINF:-1,44 frisbee
+rtsp://orangepizero:554/?src=3&freq=11258&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=505,751,752,5005
+#EXTINF:-1,46 K2
+rtsp://orangepizero:554/?src=3&freq=11258&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=504,741,742,5004
+#EXTINF:-1,47 Super!
+rtsp://orangepizero:554/?src=3&freq=10930&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=30000&fec=23&pids=1471,1472,1473,1477
+#EXTINF:-1,48 Arte HD
+rtsp://orangepizero:554/?src=3&freq=10892&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=34&pids=571,572,573,574,575,576,577,578,579
+#EXTINF:-1,49 MEZZO
+rtsp://orangepizero:554/?src=3&freq=10930&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=30000&fec=23&pids=1391,1392,1393,1394,1395,1396
+#EXTINF:-1,50 RDS Social TV
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=370,5302,5303,5305
+#EXTINF:-1,51 EQUtv
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=2963,3963
+#EXTINF:-1,52 ACI SPORT TV
+rtsp://orangepizero:554/?src=3&freq=12577&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=6131,6132
+#EXTINF:-1,54 Solo Calcio
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=397,398
+#EXTINF:-1,55 MARCOPOLO TRAVEL TV
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1972,1973
+#EXTINF:-1,56 HGTV Italy
+rtsp://orangepizero:554/?src=3&freq=11393&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=535,880,881,5034
+#EXTINF:-1,58 Euronews Italian
+rtsp://orangepizero:554/?src=3&freq=12520&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1231,1232,3023
+#EXTINF:-1,59 Discovery Turbo
+rtsp://orangepizero:554/?src=3&freq=11393&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=522,750,751,5021
+#EXTINF:-1,60 wedotv Big Stories
+rtsp://orangepizero:554/?src=3&freq=10775&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=23&pids=2621,2622,2625,2626,2627,2628
+#EXTINF:-1,62 RTL 102.5 CALIENTE
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5171,5172
+#EXTINF:-1,63 Radio Italia Live
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1968,1969
+#EXTINF:-1,64 Radio Kiss Kiss TV
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=2017,2018,550
+#EXTINF:-1,65 RADIO ZETA HD
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5161,5162,5167
+#EXTINF:-1,66 RADIOFRECCIA HD
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5151,5152,5157
+#EXTINF:-1,67 RADIO MONTE CARLO
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1026,1126,6054,7811,7891
+#EXTINF:-1,68 VIRGIN RADIO
+rtsp://orangepizero:554/?src=3&freq=11432&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1030,1130,6054,7811,7891
+#EXTINF:-1,69 France 24 HD (in English)
+rtsp://orangepizero:554/?src=3&freq=11565&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=818,828,838,848,858,888
+#EXTINF:-1,70 BBC News Europe
+rtsp://orangepizero:554/?src=3&freq=11727&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1040,1041,1042
+#EXTINF:-1,71 Al Jazeera English HD
+rtsp://orangepizero:554/?src=3&freq=11137&pol=h&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3506,3586,3626,3686
+#EXTINF:-1,72 TRT World HD
+rtsp://orangepizero:554/?src=3&freq=11565&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=813,823,873
+#EXTINF:-1,73 NHK WORLD JAPAN
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5331,5332,5337
+#EXTINF:-1,74 FREEDOM
+rtsp://orangepizero:554/?src=3&freq=10930&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=30000&fec=23&pids=44,192
+#EXTINF:-1,75 France 24 HD (en Francais)
+rtsp://orangepizero:554/?src=3&freq=11565&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=817,827,837,847,857,887
+#EXTINF:-1,76 DIM
+rtsp://orangepizero:554/?src=3&freq=10930&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=30000&fec=23&pids=1501,1502
+#EXTINF:-1,77 Al Jazeera HD
+rtsp://orangepizero:554/?src=3&freq=12577&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=6011,6012
+#EXTINF:-1,79 Sonlife
+rtsp://orangepizero:554/?src=3&freq=12322&pol=h&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=8091,8092,8093,8095
+#EXTINF:-1,81 CNBC HD
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1061,1062
+#EXTINF:-1,82 Bloomberg European TV
+rtsp://orangepizero:554/?src=3&freq=11137&pol=h&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3502,3582,3622,3882
+#EXTINF:-1,83 DAYSTAR HD
+rtsp://orangepizero:554/?src=3&freq=10727&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=30000&fec=34&pids=6081,6082
+#EXTINF:-1,85 DW English HD
+rtsp://orangepizero:554/?src=3&freq=11727&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=950,1010,1011
+#EXTINF:-1,86 Euronews English HD
+rtsp://orangepizero:554/?src=3&freq=12520&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1227,1228,1229,1221,1222,3022
+#EXTINF:-1,87 CGTN HD
+rtsp://orangepizero:554/?src=3&freq=11585&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=56&pids=513,660
+#EXTINF:-1,88 CGTN Documentary HD
+rtsp://orangepizero:554/?src=3&freq=11585&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=56&pids=514,670
+#EXTINF:-1,89 Senato
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=508,608,708,2012,3012,3101
+#EXTINF:-1,90 Camera Deputati
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=519,659,2012,3012,3101
+#EXTINF:-1,91 KBS HD
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=961,962,963
+#EXTINF:-1,92 CCTV-4 HD
+rtsp://orangepizero:554/?src=3&freq=11585&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=56&pids=512,650
+#EXTINF:-1,94 Svoboda
+rtsp://orangepizero:554/?src=3&freq=10949&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=
+#EXTINF:-1,95 Svoboda News
+rtsp://orangepizero:554/?src=3&freq=10949&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=
+#EXTINF:-1,96 Svoboda+
+rtsp://orangepizero:554/?src=3&freq=10949&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=
+#EXTINF:-1,97 Russia's Future
+rtsp://orangepizero:554/?src=3&freq=10949&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=
+#EXTINF:-1,98 Belarus Tomorrow
+rtsp://orangepizero:554/?src=3&freq=10949&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1050,1051,1059
+#EXTINF:-1,99 Gordon Live
+rtsp://orangepizero:554/?src=3&freq=10949&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=
+#EXTINF:-1,187 CGTN
+rtsp://orangepizero:554/?src=3&freq=11034&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=620,630
+#EXTINF:-1,202 Rai Radio 2 Visual
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=513,651,577,2012,3012,3101
+#EXTINF:-1,210 Rai 4K
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=507,607,617,2012,3012,3101
+#EXTINF:-1,220 Museum 4K
+rtsp://orangepizero:554/?src=3&freq=10727&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=30000&fec=34&pids=6041,6042,6043,6044,6045,6046
+#EXTINF:-1,222 MyZenTV 4K
+rtsp://orangepizero:554/?src=3&freq=10727&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=30000&fec=34&pids=6501,6511,6512,6513,6514,6515,6516
+#EXTINF:-1,223 INULTRA
+rtsp://orangepizero:554/?src=3&freq=12379&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=30000&fec=56&pids=500,1051,1052,1053,1054,1055,1056,1057
+#EXTINF:-1,225 TRAVELXP 4K
+rtsp://orangepizero:554/?src=3&freq=10727&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=30000&fec=34&pids=457,458,459,465,466,467,468,469,470,471,472,473,474,475,476
+#EXTINF:-1,230 Hot Bird 4k1
+rtsp://orangepizero:554/?src=3&freq=12558&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=56&pids=2091,2092
+#EXTINF:-1,301 Rai 3 TGR Valle d'Aosta
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=814,914,514,2012,3012,3101
+#EXTINF:-1,302 Rai 3 TGR Piemonte
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=809,909,509,2012,3012,3101
+#EXTINF:-1,303 Rai 3 TGR Liguria
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=805,905,505,2012,3012,3101
+#EXTINF:-1,304 Rai 3 TGR Lombardia
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=810,910,510,2012,3012,3101
+#EXTINF:-1,305 Rai 3 TGR Veneto
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=812,912,512,2012,3012,3101
+#EXTINF:-1,306 Rai 3 TGR Trentino Alto Adige Bolzano
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=822,922,522,2012,3012,3101
+#EXTINF:-1,307 Rai 3 TGR Trentino Alto Adige Trento
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=821,921,521,2012,3012,3101
+#EXTINF:-1,308 Rai 3 TGR Südtirol
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=813,913,513,2012,3012,3101
+#EXTINF:-1,309 Rai 3 TGR Friuli Venezia Giulia
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=819,919,519,2012,3012,3101
+#EXTINF:-1,310 Rai 3 TGR Furlanija Julijska Krajina
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=820,920,520,2012,3012,3101
+#EXTINF:-1,311 Rai 3 TGR Emilia-Romagna
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=811,911,511,2012,3012,3101
+#EXTINF:-1,312 Rai 3 TGR Toscana
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=806,906,506,2012,3012,3101
+#EXTINF:-1,313 Rai 3 TGR Marche
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=808,908,508,2012,3012,3101
+#EXTINF:-1,314 Rai 3 TGR Umbria
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=807,907,507,2012,3012,3101
+#EXTINF:-1,315 Rai 3 TGR Lazio
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=823,923,523,2012,3012,3101
+#EXTINF:-1,316 Rai 3 TGR Abruzzo
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=816,916,516,2012,3012,3101
+#EXTINF:-1,317 Rai 3 TGR Molise
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=817,917,517,2012,3012,3101
+#EXTINF:-1,318 Rai 3 TGR Campania
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=818,918,518,2012,3012,3101
+#EXTINF:-1,319 Rai 3 TGR Puglia
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=801,901,501,2012,3012,3101
+#EXTINF:-1,320 Rai 3 TGR Basilicata
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=802,902,502,2012,3012,3101
+#EXTINF:-1,321 Rai 3 TGR Calabria
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=803,903,503,2012,3012,3101
+#EXTINF:-1,322 Rai 3 TGR Sardegna
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=815,915,515,2012,3012,3101
+#EXTINF:-1,323 Rai 3 TGR Sicilia
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=804,904,504,2012,3012,3101
+#EXTINF:-1,412 TELERADIOPACE
+rtsp://orangepizero:554/?src=3&freq=11296&pol=h&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=56&pids=4001,3008,2008,6008
+#EXTINF:-1,413 Sender Neu Jerusalem
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=810,820
+#EXTINF:-1,420 People TV-Rete 7
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5181,5182
+#EXTINF:-1,422 Telecupole
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1411,1412
+#EXTINF:-1,444 Horse TV HD
+rtsp://orangepizero:554/?src=3&freq=10930&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=30000&fec=23&pids=1421,1422
+#EXTINF:-1,445 Padre Pio Tv
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=650,651
+#EXTINF:-1,447 BeJoy.kids
+rtsp://orangepizero:554/?src=3&freq=10930&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=30000&fec=23&pids=1491,1492
+#EXTINF:-1,454 Parole di Vita
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5101,5102
+#EXTINF:-1,500 tivù la guida
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=523,2023
+#EXTINF:-1,519 TRM h24
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1351,1352
+#EXTINF:-1,550 San Marino RTV HD
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=5171,5172
+#EXTINF:-1,601 Rai Radio 1
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=641,2012,3012,3101
+#EXTINF:-1,602 Rai Radio 2
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=642,2012,3012,3101
+#EXTINF:-1,603 Rai Radio 3
+rtsp://orangepizero:554/?src=3&freq=11765&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=643,2012,3012,3101
+#EXTINF:-1,604 Rai Isoradio
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=666,2012,3012,3101
+#EXTINF:-1,605 Rai GrParlamento
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=665,2012,3012,3101
+#EXTINF:-1,606 Rai Radio 1 Sport
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=673,2012,3012,3101
+#EXTINF:-1,607 Rai Radio 3 Classica
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=664,2012,3012,3101
+#EXTINF:-1,608 RDS
+rtsp://orangepizero:554/?src=3&freq=12111&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=46
+#EXTINF:-1,609 DimSuono Roma
+rtsp://orangepizero:554/?src=3&freq=12111&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=47
+#EXTINF:-1,610 RTL 102.5
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=6420
+#EXTINF:-1,611 RADIO ZETA ITALIANA
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=6430
+#EXTINF:-1,612 Radio Freccia
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3516
+#EXTINF:-1,615 Radio 105
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=951
+#EXTINF:-1,616 VIRGIN RADIO
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=956
+#EXTINF:-1,617 R101
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=952
+#EXTINF:-1,618 Radio Monte Carlo
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=953
+#EXTINF:-1,619 Rai Radio Südtirol
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=675,2012,3012,3101
+#EXTINF:-1,620 RADIO ITALIA s.m.i.
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=6320
+#EXTINF:-1,621 M DUE O
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3546,3552
+#EXTINF:-1,622 CAPITAL
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3544,3551
+#EXTINF:-1,623 DEEJAY
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3542,3550
+#EXTINF:-1,624 Radio 24
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3526
+#EXTINF:-1,625 DISCORADIO
+rtsp://orangepizero:554/?src=3&freq=12111&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=112
+#EXTINF:-1,626 R.ONDA D'URTO
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3531
+#EXTINF:-1,627 ANNI 60
+rtsp://orangepizero:554/?src=3&freq=12111&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=48
+#EXTINF:-1,629 Radio Supersound
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=2519
+#EXTINF:-1,630 Radio Margherita
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=102
+#EXTINF:-1,631 Radio Number One
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=199
+#EXTINF:-1,633 Radio Maria
+rtsp://orangepizero:554/?src=3&freq=12111&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=42
+#EXTINF:-1,634 Radio Mater
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3641
+#EXTINF:-1,635 popolare
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3553
+#EXTINF:-1,636 No Name Radio
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=670,2012,3012,3101
+#EXTINF:-1,637 Rai Radio Tutta Italiana
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=671,2012,3012,3101
+#EXTINF:-1,638 Rai Radio Techete'
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=667,2012,3012,3101
+#EXTINF:-1,639 Rai Radio Kids
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=669,2012,3012,3101
+#EXTINF:-1,640 Rai Radio Live Napoli
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=668,2012,3012,3101
+#EXTINF:-1,641 Rai Radio 1 L'Ora della Venezia Giulia
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=672,2012,3012,3101
+#EXTINF:-1,642 Rai Radio Trst A
+rtsp://orangepizero:554/?src=3&freq=10992&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=23&pids=674,2012,3012,3101
+#EXTINF:-1,643 Radio Kiss Kiss
+rtsp://orangepizero:554/?src=3&freq=12111&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=74
+#EXTINF:-1,644 Radio Sportiva
+rtsp://orangepizero:554/?src=3&freq=12149&pol=v&msys=DVBS&mtype=qpsk&plts=on&sr=27500&fec=34&pids=3512
+#EXTINF:-1,645 RVS-Accendi la Speranza
+rtsp://orangepizero:554/?src=3&freq=11373&pol=h&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=27500&fec=34&pids=5192
+#EXTINF:-1,646 Canzoni Napoletane
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=2522
+#EXTINF:-1,656 RFI Francais
+rtsp://orangepizero:554/?src=3&freq=11727&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1500
+#EXTINF:-1,661 Swiss Pop
+rtsp://orangepizero:554/?src=3&freq=10971&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29700&fec=23&pids=225
+#EXTINF:-1,662 Swiss Jazz
+rtsp://orangepizero:554/?src=3&freq=10971&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29700&fec=23&pids=226
+#EXTINF:-1,663 Swiss Classica
+rtsp://orangepizero:554/?src=3&freq=10971&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29700&fec=23&pids=237
+#EXTINF:-1,667 DW02
+rtsp://orangepizero:554/?src=3&freq=11727&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1241
+#EXTINF:-1,669 DW08
+rtsp://orangepizero:554/?src=3&freq=11727&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1211
+#EXTINF:-1,670 DW09
+rtsp://orangepizero:554/?src=3&freq=11727&pol=v&msys=DVBS2&mtype=8psk&ro=0.25&plts=on&sr=29900&fec=34&pids=1221
+#EXTINF:-1,701 UNINETTUNO UNIVERSITY TV
+rtsp://orangepizero:554/?src=3&freq=11013&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=1880,1881,2012,3012
+#EXTINF:-1,815 Vatican Media Europa HD
+rtsp://orangepizero:554/?src=3&freq=12476&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=29900&fec=34&pids=2041,2042,2043,2044,2045
+#EXTINF:-1,819 VIDEOLINA
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=2195,2193
+#EXTINF:-1,822 TELESARDEGNA
+rtsp://orangepizero:554/?src=3&freq=11919&pol=v&msys=DVBS2&mtype=8psk&ro=0.35&plts=on&sr=29900&fec=34&pids=1640,1641
+#EXTINF:-1,832 TVA Vicenza
+rtsp://orangepizero:554/?src=3&freq=11662&pol=v&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1993,1994
+#EXTINF:-1,868 Arte Investimenti
+rtsp://orangepizero:554/?src=3&freq=11179&pol=h&msys=DVBS2&mtype=8psk&ro=0.30&plts=on&sr=27500&fec=23&pids=1211,1212

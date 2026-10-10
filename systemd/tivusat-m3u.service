@@ -1,0 +1,11 @@
+[Unit]
+Description=tivùsat m3u generator
+After=network-online.target
+Wants=network-online.target 
+
+[Service]
+User=minisatip
+Group=minisatip
+RuntimeDirectory=tivusat-m3u
+Type=oneshot
+ExecStart=/usr/local/bin/tivusat-m3u.sh

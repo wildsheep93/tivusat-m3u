@@ -1,0 +1,415 @@
+    Transport Stream Id: 0x2E7C (11900)
+    Service Id: 0x051B (1307), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Arte HD", Provider: "REAL LIFE"
+    Transport Stream Id: 0x332C (13100)
+    Service Id: 0x1C86 (7302), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Bloomberg European TV", Provider: "AL JAZEERA"
+    Service Id: 0x1C8A (7306), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Al Jazeera English HD", Provider: "AL JAZEERA"
+    Transport Stream Id: 0x3138 (12600)
+    Service Id: 0x06AA (1706), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "CGTN", Provider: "CGTN"
+    Transport Stream Id: 0x30D4 (12500)
+    Service Id: 0x452F (17711), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai News 24 HD", Provider: "RAI"
+    Service Id: 0x4530 (17712), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai Gulp HD", Provider: "RAI"
+    Service Id: 0x4532 (17714), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai Sport HD", Provider: "RAI"
+    Service Id: 0x4534 (17716), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 5 HD", Provider: "RAI"
+    Service Id: 0x4536 (17718), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "UNINETTUNO UNIVERSITY TV", Provider: "RAI"
+    Service Id: 0x4543 (17731), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Puglia", Provider: "RAI"
+    Service Id: 0x4544 (17732), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Basilicata", Provider: "RAI"
+    Service Id: 0x4545 (17733), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Calabria", Provider: "RAI"
+    Service Id: 0x4546 (17734), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Sicilia", Provider: "RAI"
+    Service Id: 0x4547 (17735), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Liguria", Provider: "RAI"
+    Service Id: 0x4548 (17736), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Toscana", Provider: "RAI"
+    Service Id: 0x4549 (17737), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Umbria", Provider: "RAI"
+    Service Id: 0x454A (17738), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Marche", Provider: "RAI"
+    Service Id: 0x454B (17739), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Piemonte", Provider: "RAI"
+    Service Id: 0x454C (17740), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Lombardia", Provider: "RAI"
+    Service Id: 0x454D (17741), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Emilia-Romagna", Provider: "RAI"
+    Service Id: 0x454E (17742), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Veneto", Provider: "RAI"
+    Service Id: 0x454F (17743), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Südtirol", Provider: "RAI"
+    Service Id: 0x4550 (17744), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Valle d'Aosta", Provider: "RAI"
+    Service Id: 0x4551 (17745), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Sardegna", Provider: "RAI"
+    Service Id: 0x4552 (17746), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Abruzzo", Provider: "RAI"
+    Service Id: 0x4553 (17747), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Molise", Provider: "RAI"
+    Service Id: 0x4554 (17748), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Campania", Provider: "RAI"
+    Service Id: 0x4555 (17749), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Friuli Venezia Giulia", Provider: "RAI"
+    Service Id: 0x4556 (17750), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Furlanija Julijska Krajina", Provider: "RAI"
+    Service Id: 0x4557 (17751), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Trentino Alto Adige Trento", Provider: "RAI"
+    Service Id: 0x4558 (17752), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Trentino Alto Adige Bolzano", Provider: "RAI"
+    Service Id: 0x4559 (17753), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 TGR Lazio", Provider: "RAI"
+    Transport Stream Id: 0x1C20 (7200)
+    Service Id: 0x0E2E (3630), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Freccia", Provider: "PEOPLE TV"
+    Service Id: 0x0E30 (3632), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RADIO ITALIA s.m.i.", Provider: "PEOPLE TV"
+    Service Id: 0x0E35 (3637), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Sportiva", Provider: "PEOPLE TV"
+    Service Id: 0x0E3A (3642), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RTL 102.5", Provider: "PEOPLE TV"
+    Service Id: 0x0E3B (3643), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RADIO ZETA ITALIANA", Provider: "PEOPLE TV"
+    Service Id: 0x0E3C (3644), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio 24", Provider: "PEOPLE TV"
+    Service Id: 0x0E3D (3645), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "R.ONDA D'URTO", Provider: "PEOPLE TV"
+    Service Id: 0x0E43 (3651), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DEEJAY", Provider: "PEOPLE TV"
+    Service Id: 0x0E44 (3652), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "CAPITAL", Provider: "PEOPLE TV"
+    Service Id: 0x0E45 (3653), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "M DUE O", Provider: "PEOPLE TV"
+    Service Id: 0x0E48 (3656), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "popolare", Provider: "PEOPLE TV"
+    Service Id: 0x1C58 (7256), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "San Marino RTV HD", Provider: "PEOPLE TV"
+    Service Id: 0x1C70 (7280), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Mater", Provider: "PEOPLE TV"
+    Transport Stream Id: 0x3C28 (15400)
+    Service Id: 0x0367 (871), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "CCTV-4 HD", Provider: "CCTV"
+    Service Id: 0x0368 (872), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "CGTN HD", Provider: "CCTV"
+    Service Id: 0x0369 (873), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "CGTN Documentary HD", Provider: "CCTV"
+    Transport Stream Id: 0x20D0 (8400)
+    Service Id: 0x0BEA (3050), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "INULTRA", Provider: "INULTRA"
+    Transport Stream Id: 0x1A90 (6800)
+    Service Id: 0x1018 (4120), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Cielo HD", Provider: "SKY"
+    Service Id: 0x1C5C (7260), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TV8 HD", Provider: "SKY"
+    Transport Stream Id: 0x1450 (5200)
+    Service Id: 0x0D49 (3401), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 1 HD", Provider: "RAI"
+    Service Id: 0x0D4A (3402), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 2 HD", Provider: "RAI"
+    Service Id: 0x0D4B (3403), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 3 HD", Provider: "RAI"
+    Service Id: 0x0D4D (3405), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 4 HD", Provider: "RAI"
+    Service Id: 0x0D4E (3406), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai Movie HD", Provider: "RAI"
+    Service Id: 0x0D4F (3407), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai 4K", Provider: "RAI"
+    Service Id: 0x0D50 (3408), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Senato", Provider: "RAI"
+    Service Id: 0x0D71 (3441), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai Radio 1", Provider: "RAI"
+    Service Id: 0x0D72 (3442), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai Radio 2", Provider: "RAI"
+    Service Id: 0x0D73 (3443), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rai Radio 3", Provider: "RAI"
+    Transport Stream Id: 0x22C4 (8900)
+    Service Id: 0x07D4 (2004), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Vatican Media Europa HD", Provider: "ARTURO LT"
+    Transport Stream Id: 0x03E8 (1000)
+    Service Id: 0x10E1 (4321), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Discovery Turbo", Provider: "SKY"
+    Service Id: 0x10E2 (4322), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "GIALLO", Provider: "SKY"
+    Service Id: 0x10E3 (4323), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Nove", Provider: "SKY"
+    Service Id: 0x10EE (4334), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "HGTV Italy", Provider: "SKY"
+    Transport Stream Id: 0x0384 (900)
+    Service Id: 0x01FE (510), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Parole di Vita", Provider: "NHK JAPAN"
+    Service Id: 0x0202 (514), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RTL 102.5 HD", Provider: "NHK JAPAN"
+    Service Id: 0x0203 (515), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RADIOFRECCIA HD", Provider: "NHK JAPAN"
+    Service Id: 0x0204 (516), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RADIO ZETA HD", Provider: "NHK JAPAN"
+    Service Id: 0x0205 (517), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RTL 102.5 CALIENTE", Provider: "NHK JAPAN"
+    Service Id: 0x0206 (518), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "People TV-Rete 7", Provider: "NHK JAPAN"
+    Service Id: 0x0207 (519), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RVS-Accendi la Speranza", Provider: "NHK JAPAN"
+    Service Id: 0x0215 (533), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "NHK WORLD JAPAN", Provider: "NHK JAPAN"
+    Transport Stream Id: 0x1388 (5000)
+    Service Id: 0x332D (13101), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DW English HD", Provider: "DW"
+    Service Id: 0x3330 (13104), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "BBC News Europe", Provider: "DW"
+    Service Id: 0x3341 (13121), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DW08", Provider: "DW"
+    Service Id: 0x3342 (13122), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DW09", Provider: "DW"
+    Service Id: 0x3344 (13124), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DW02", Provider: "DW"
+    Service Id: 0x334A (13130), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RFI Francais", Provider: "DW"
+    Transport Stream Id: 0x01F4 (500)
+    Service Id: 0x08A0 (2208), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TELERADIOPACE", Provider: "TELERADIOPACE"
+    Transport Stream Id: 0x2454 (9300)
+    Service Id: 0x0641 (1601), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Al Jazeera HD", Provider: "AL JAZEERA HD"
+    Service Id: 0x064D (1613), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "ACI SPORT TV", Provider: "AL JAZEERA HD"
+    Transport Stream Id: 0x33F4 (13300)
+    Service Id: 0x1325 (4901), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "KBS HD", Provider: "JUWELO"
+    Service Id: 0x1326 (4902), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "CNBC HD", Provider: "JUWELO"
+    Service Id: 0x132E (4910), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Sender Neu Jerusalem", Provider: "JUWELO"
+    Service Id: 0x135A (4954), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Supersound", Provider: "JUWELO"
+    Service Id: 0x135D (4957), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Margherita", Provider: "JUWELO"
+    Service Id: 0x1381 (4993), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Arte Investimenti", Provider: "JUWELO"
+    Service Id: 0x1382 (4994), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Telecupole", Provider: "JUWELO"
+    Service Id: 0x1384 (4996), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Solo Calcio", Provider: "JUWELO"
+    Transport Stream Id: 0x3BC4 (15300)
+    Service Id: 0x0323 (803), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TRT World HD", Provider: "EURONEWS"
+    Service Id: 0x0327 (807), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "France 24 HD (en Francais)", Provider: "EURONEWS"
+    Service Id: 0x0328 (808), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "France 24 HD (in English)", Provider: "EURONEWS"
+    Transport Stream Id: 0x300C (12300)
+    Service Id: 0x4353 (17235), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Swiss Pop", Provider: "RADIO SWISS"
+    Service Id: 0x4354 (17236), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Swiss Jazz", Provider: "RADIO SWISS"
+    Service Id: 0x435F (17247), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Swiss Classica", Provider: "RADIO SWISS"
+    Transport Stream Id: 0x2F44 (12100)
+    Service Id: 0x421C (16924), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "FREEDOM", Provider: "M7group"
+    Service Id: 0x422B (16939), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "MEZZO", Provider: "M7group"
+    Service Id: 0x422E (16942), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Horse TV HD", Provider: "M7group"
+    Service Id: 0x4233 (16947), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Super!", Provider: "M7group"
+    Service Id: 0x4235 (16949), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "BeJoy.kids", Provider: "M7group"
+    Service Id: 0x4236 (16950), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DIM", Provider: "M7group"
+    Transport Stream Id: 0x2B5C (11100)
+    Service Id: 0x11FB (4603), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TRAVELXP 4K", Provider: "4K"
+    Service Id: 0x11FC (4604), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Museum 4K", Provider: "4K"
+    Service Id: 0x11FD (4605), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "MyZenTV 4K", Provider: "4K"
+    Service Id: 0x1200 (4608), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DAYSTAR HD", Provider: "4K"
+    Transport Stream Id: 0x2C24 (11300)
+    Service Id: 0x0106 (262), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "wedotv Big Stories", Provider: "WEDOTV"
+    Transport Stream Id: 0x23F0 (9200)
+    Service Id: 0x04B9 (1209), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Hot Bird 4k1", Provider: "HOT BIRD 4K1"
+    Transport Stream Id: 0x1FA4 (8100)
+    Service Id: 0x39D9 (14809), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Sonlife", Provider: "REAL LIFE"
+    Transport Stream Id: 0x1B58 (7000)
+    Service Id: 0x02DC (732), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Maria", Provider: "TELESPAZIO"
+    Service Id: 0x02E0 (736), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RDS", Provider: "TELESPAZIO"
+    Service Id: 0x02E1 (737), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DimSuono Roma", Provider: "TELESPAZIO"
+    Service Id: 0x02E2 (738), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "ANNI 60", Provider: "TELESPAZIO"
+    Service Id: 0x02E6 (742), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Kiss Kiss", Provider: "TELESPAZIO"
+    Service Id: 0x0300 (768), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DISCORADIO", Provider: "TELESPAZIO"
+    Transport Stream Id: 0x14B4 (5300)
+    Service Id: 0x02C9 (713), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "wedotv Movies", Provider: "WEDO"
+    Transport Stream Id: 0x1770 (6000)
+    Service Id: 0x0049 (73), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "LA7CINEMA", Provider: "MEDIASET"
+    Service Id: 0x004F (79), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "LA7 HD", Provider: "MEDIASET"
+    Service Id: 0x0050 (80), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TELESARDEGNA", Provider: "MEDIASET"
+    Service Id: 0x005B (91), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TV2000 HD", Provider: "MEDIASET"
+    Service Id: 0x0065 (101), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "R101", Provider: "MEDIASET"
+    Service Id: 0x0066 (102), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Monte Carlo", Provider: "MEDIASET"
+    Service Id: 0x0068 (104), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "VIRGIN RADIO", Provider: "MEDIASET"
+    Service Id: 0x0069 (105), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio 105", Provider: "MEDIASET"
+    Transport Stream Id: 0x04B0 (1200)
+    Service Id: 0x006F (111), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Cine34 HD", Provider: "MEDIASET HD"
+    Service Id: 0x0076 (118), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "VIRGIN RADIO", Provider: "MEDIASET"
+    Service Id: 0x0077 (119), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RADIO MONTE CARLO", Provider: "MEDIASET HD"
+    Service Id: 0x0078 (120), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "20Mediaset HD", Provider: "MEDIASET HD"
+    Service Id: 0x0079 (121), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Italia1 HD", Provider: "MEDIASET HD"
+    Service Id: 0x007A (122), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Canale5 HD", Provider: "MEDIASET HD"
+    Service Id: 0x007B (123), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Rete4 HD", Provider: "MEDIASET HD"
+    Service Id: 0x007C (124), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Iris HD", Provider: "MEDIASET HD"
+    Service Id: 0x007E (126), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Boing", Provider: "MEDIASET HD"
+    Service Id: 0x007F (127), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "La5 HD", Provider: "MEDIASET HD"
+    Service Id: 0x0080 (128), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TGCOM24 HD", Provider: "MEDIASET HD"
+    Service Id: 0x0081 (129), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Mediaset Extra HD", Provider: "MEDIASET HD"
+    Service Id: 0x0082 (130), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Mediaset Italia2 HD", Provider: "MEDIASET HD"
+    Service Id: 0x0084 (132), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TOPcrime HD", Provider: "MEDIASET HD"
+    Service Id: 0x0085 (133), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Cartoonito", Provider: "MEDIASET HD"
+    Service Id: 0x0086 (134), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Focus HD", Provider: "MEDIASET HD"
+    Service Id: 0x0087 (135), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "27Twentyseven HD", Provider: "MEDIASET HD"
+    Transport Stream Id: 0x012C (300)
+    Service Id: 0x3B61 (15201), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Real Time", Provider: "SKY"
+    Service Id: 0x3B62 (15202), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "DMAX", Provider: "SKY"
+    Service Id: 0x3B63 (15203), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Food Network", Provider: "SKY"
+    Service Id: 0x3B6C (15212), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Discovery", Provider: "SKY"
+    Transport Stream Id: 0x3DB8 (15800)
+    Service Id: 0x421A (16922), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TRM h24", Provider: "TVA"
+    Service Id: 0x4238 (16952), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Padre Pio Tv", Provider: "TVA"
+    Service Id: 0x4242 (16962), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Italia TV HD", Provider: "TVA"
+    Service Id: 0x4243 (16963), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "EQUtv", Provider: "TVA"
+    Service Id: 0x4246 (16966), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Italia Live", Provider: "TVA"
+    Service Id: 0x424B (16971), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "MARCOPOLO TRAVEL TV", Provider: "TVA"
+    Service Id: 0x4250 (16976), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Kiss Kiss TV", Provider: "TVA"
+    Service Id: 0x4251 (16977), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "RDS Social TV", Provider: "TVA"
+    Service Id: 0x4255 (16981), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Radio Number One", Provider: "TVA"
+    Service Id: 0x4256 (16982), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Canzoni Napoletane", Provider: "TVA"
+    Service Id: 0x425C (16988), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "TVA Vicenza", Provider: "TVA"
+    Service Id: 0x4260 (16992), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "VIDEOLINA", Provider: "TVA"
+    Transport Stream Id: 0x3D54 (15700)
+    Service Id: 0x0531 (1329), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "La C Sat", Provider: "QVC HD"
+    Service Id: 0x0535 (1333), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "ER24", Provider: "QVC HD"
+    Transport Stream Id: 0x3070 (12400)
+    Service Id: 0x0110 (272), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x0111 (273), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x0112 (274), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x0113 (275), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x0114 (276), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x0115 (277), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x0116 (278), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x0117 (279), EITs: no, EITp/f: no, CA mode: controlled
+    Service Id: 0x213F (8511), EITs: yes, EITp/f: yes, CA mode: controlled
+      Service: "Rai YoYo HD", Provider: "RAI"
+    Service Id: 0x2140 (8512), EITs: yes, EITp/f: yes, CA mode: controlled
+      Service: "Rai Radio 2 Visual", Provider: "RAI"
+    Service Id: 0x2146 (8518), EITs: yes, EITp/f: yes, CA mode: controlled
+      Service: "Rai Storia HD", Provider: "RAI"
+    Service Id: 0x2147 (8519), EITs: yes, EITp/f: yes, CA mode: controlled
+      Service: "Camera Deputati", Provider: "RAI"
+    Service Id: 0x2149 (8521), EITs: yes, EITp/f: yes, CA mode: controlled
+      Service: "Rai Scuola HD", Provider: "RAI"
+    Service Id: 0x214A (8522), EITs: yes, EITp/f: yes, CA mode: controlled
+      Service: "Rai Premium HD", Provider: "RAI"
+    Service Id: 0x214B (8523), EITs: yes, EITp/f: yes, CA mode: controlled
+      Service: "tivù la guida", Provider: "RAI"
+    Service Id: 0x214C (8524), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio 3 Classica", Provider: "RAI"
+    Service Id: 0x214D (8525), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai GrParlamento", Provider: "RAI"
+    Service Id: 0x214E (8526), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Isoradio", Provider: "RAI"
+    Service Id: 0x214F (8527), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio Techete'", Provider: "RAI"
+    Service Id: 0x2150 (8528), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio Live Napoli", Provider: "RAI"
+    Service Id: 0x2151 (8529), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio Kids", Provider: "RAI"
+    Service Id: 0x2152 (8530), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "No Name Radio", Provider: "RAI"
+    Service Id: 0x2153 (8531), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio Tutta Italiana", Provider: "RAI"
+    Service Id: 0x2154 (8532), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio 1 L'Ora della Venezia Giulia", Provider: "RAI"
+    Service Id: 0x2155 (8533), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio 1 Sport", Provider: "RAI"
+    Service Id: 0x2156 (8534), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio Trst A", Provider: "RAI"
+    Service Id: 0x2157 (8535), EITs: yes, EITp/f: yes, CA mode: free
+      Service: "Rai Radio Südtirol", Provider: "RAI"
+    Transport Stream Id: 0x2328 (9000)
+    Service Id: 0x233E (9022), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Euronews English HD", Provider: "REAL LIFE"
+    Service Id: 0x233F (9023), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Euronews Italian", Provider: "REAL LIFE"
+    Transport Stream Id: 0x2FA8 (12200)
+    Service Id: 0x0065 (101), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Svoboda", Provider: "SVOBODA"
+    Service Id: 0x0066 (102), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Svoboda News", Provider: "SVOBODA"
+    Service Id: 0x0067 (103), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Gordon Live", Provider: "SVOBODA"
+    Service Id: 0x0068 (104), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Russia's Future", Provider: "SVOBODA"
+    Service Id: 0x0069 (105), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Svoboda+", Provider: "SVOBODA"
+    Service Id: 0x006A (106), EITs: no, EITp/f: no, CA mode: controlled
+      Service: "Belarus Tomorrow", Provider: "SVOBODA"
