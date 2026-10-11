@@ -85,10 +85,6 @@ Check the output of the script for any possible errors:
 ```
 journalctl -u tivusat.m3u
 ```
-## Version History
-
-* 0.1
-    * Initial Release
 
 ## TO-DO
 
