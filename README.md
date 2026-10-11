@@ -93,7 +93,7 @@ journalctl -u tivusat.m3u
 * Improve retry logic
 * Rewrite parser in python
 
-## Version History
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
