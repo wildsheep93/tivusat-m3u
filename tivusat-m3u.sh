@@ -1,15 +1,6 @@
 #!/bin/bash
 
-host="minisatip" # minisatip host
-output="/usr/share/minisatip/html/tivusat.m3u8" # Output m3u
-port=554 # RTSP port
-hport=8080 # HTTP port
-rfreq=10992 # Reference transponder frequency
-rpol="v" # Reference transponder polarization
-rsym=27500 # Reference transponder symbol rate
-rmsys="dvbs&mtype=qpsk" # Reference transpoder Delivery System and Modulation
-max_retries=5 # number of tries for NIT and SDT fetching
-
+source /usr/local/etc/tivusat-m3u.conf
 cd /run/tivusat-m3u
 
 if [ ! -f $output ]; then

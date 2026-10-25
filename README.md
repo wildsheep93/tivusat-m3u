@@ -32,25 +32,16 @@ git clone
 * If your package does not come with a .service file for minitsatip you can copy from the systemd/ folder along with its config:
 ```
 sudo cp systemd/minisatip.service /etc/systemd/system/
-sudo cp minisatip.com /etc/minitsatip.conf
+sudo cp minisatip.conf /etc/minitsatip.conf
 sudo vi /etc/minisatip.conf
 ```
-* Customize the script and copy the script to /usr/local/bin
+* Customize the config file and copy it along with the script to /usr/local/
 ```
-vi tivusat-m3u.sh
-
-host="192.168.178.29" # minisatip host
-output="/usr/share/minisatip/html/tivusat.m3u8" Output m3u
-port=554 # RTSP port
-hport=8080 # HTTP port
-rfreq=10992 # Reference transponder frequency
-rpol="v" # Reference transponder polarization
-rsym=27500 # Reference transponder symbol rate
-rmsys="dvbs&mtype=qpsk" # Reference transpoder Delivery System and Modulation
-max_retries=5 # number of tries for NIT and SDT fetching 
+vi tivusat-m3u.conf
 ```
 ```
 sudo cp tivusat-m3u.sh /usr/local/bin/
+sudo cp tivusat-m3u.conf /usr/local/etc/
 ```
 * Copy the .service and .timer files to /etc/systemd/system/ and enable the timer
 ```
@@ -77,7 +68,7 @@ sudo systemctl start tivusat-m3u.service
 ```
 or outside systemd:
 ```
-./usr/bin/tivusat-m3u.sh
+/usr/local/bin/tivusat-m3u.sh
 ```
 ## Help
 
@@ -88,7 +79,7 @@ journalctl -u tivusat.m3u
 
 ## TO-DO
 
-* Move script configuration to separate file
+* ~~Move script configuration to separate file~~
 * Improve logging
 * Improve retry logic
 * Rewrite parser in python
